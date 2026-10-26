@@ -1,8 +1,7 @@
 <div align="center">
 
 # 🛡️ Defense Sentiment Intelligence Dashboard
-### Platform Analisis Sentimen & Intelijen Opini Publik Isu Strategis Pertahanan RI
-*Direktorat Jenderal Strategi Pertahanan (Ditjen Strahan) — Kementerian Pertahanan RI*
+Proyek ini menghadirkan sistem intelijen opini publik berbasis web yang dirancang untuk menganalisis narasi masyarakat terkait kebijakan pertahanan negara di media sosial X (Twitter). Mengintegrasikan arsitektur Hybrid AI (IndoBERT + Google Gemini 2.5 Flash) dan pemodelan topik BERTopic, platform ini mengotomatiskan akuisisi data OSINT, klasifikasi sentimen kontekstual, pemetaan sub-isu, serta penyusunan laporan strategis eksekutif untuk mendukung Direktorat Jenderal Strategi Pertahanan Kemhan RI.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
